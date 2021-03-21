@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 👋👋👋
 
-Hey guys, you can look through my list of projects here. 
+Hey guys, you can look through some of the projects I've been working on here.
 
 I'm always looking to work on something new. Some of the projects I like to work on include
 
