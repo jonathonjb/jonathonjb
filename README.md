@@ -1,8 +1,10 @@
+<!--
 - 👋 Hi, I’m @jonathonjb
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 jonathonjb/jonathonjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +26,5 @@ I'm always looking to work on something new. Some of the projects I like to work
 🤖 Artificial Intelligence / Machine Learning 
 
 and more! 
+
+📫 If you want to about a project I've been working on or if yout want me to help out on a project, you can reach me at jonathonjb2015@gmail.com
