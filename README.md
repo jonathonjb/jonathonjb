@@ -28,4 +28,4 @@ I'm always looking to work on something new. Some of the projects I like to work
 
 and more! 
 
-📫 If you want to about a project I've been working on or if yout want me to help out on a project, you can reach me at jonathonjb2015@gmail.com
+📫 If you want me to talk about a project I've been working on or if yout want me to help out on a project, you can reach me at jonathonjb2015@gmail.com
